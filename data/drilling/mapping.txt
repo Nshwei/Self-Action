@@ -1,0 +1,7 @@
+0 background
+1 uninstall_pipe
+2 machine_to_drilling_position
+3 drilling_out
+4 install_pipe
+5 drilling_in
+6 machine_to_install_position
